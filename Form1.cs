@@ -61,7 +61,7 @@ namespace OOP2
         ///вывод общей информации
         private void buttonShowAmount_Click(object sender, EventArgs e)
         {
-            MainTest.GetInfoAmount();
+            //MainTest.GetInfoAmount();
         }
     }
 }
